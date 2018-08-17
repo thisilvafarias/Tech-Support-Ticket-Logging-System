@@ -1,5 +1,5 @@
 # Tech-Support-Ticket-Logging-System
-
+![1](https://user-images.githubusercontent.com/38040414/44264429-8809e780-a21a-11e8-9f7d-40640a14ee4e.png)
 30th January 2018 thidevUncategorised
 This was my first College Project using GUI Programming.
 
@@ -14,5 +14,11 @@ In the company there are three different roles in  company which should be mirro
 
  
 
-Java Files (Classes) of the software and the mysql-connector-java-5.1.44-bin.jar
+Java Files (Classes) of the software and the mysql-connector-java-5.1.44-bin.jar\
+![2](https://user-images.githubusercontent.com/38040414/44264431-8809e780-a21a-11e8-8292-8c430931e50e.png)
 
+
+
+\
+Database Using Sequel Pro\
+![3](https://user-images.githubusercontent.com/38040414/44264430-8809e780-a21a-11e8-8fa9-528f64df2bd7.png)
